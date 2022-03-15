@@ -32,3 +32,20 @@ print("Data setelah di urutkan",data)
 
 # print(angka)
 
+# def pilih(x):
+#     for pos_tujuan in range(len(x)-1,0,1):
+#         pos_max=pos_tujuan
+#         print("pos_max" ,pos_max)
+#         print("pos_tujuan" ,pos_tujuan)
+#         print("mencari nilai terkecil \n")
+
+#         for j in range (1,pos_tujuan+1):
+#             print("variabel j" ,j)
+#             print("data x [j]" , x[j])
+
+#             if x[pos_max] >x[j]:
+#                 pos_max =j
+#                 print("pos max in if",pos_max)
+#             print("akhir mencari nilai terkecil")
+#             x[pos_max], x[pos_tujuan],= x[pos_tujuan], x[pos_max]
+
